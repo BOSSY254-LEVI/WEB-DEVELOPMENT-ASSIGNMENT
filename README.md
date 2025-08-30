@@ -1,3 +1,5 @@
+## I sincerely apologize, sir. I made this decision out of desperation after several unsuccessful attempts to accept the assignment. Despite my efforts, I could not manage to access it, and I feared letting the deadline pass without a submission. I fully understand that this goes against the rules, and I take responsibility for my actions. It was never out of disregard for the guidelines, but rather from the pressure of not wanting to miss the assignment entirely. I humbly seek your understanding, sir.
+
 # 🚀 Assignment: Mastering JavaScript Fundamentals
 
 Welcome to your next step toward JavaScript mastery! In this assignment, you'll explore essential concepts that form the backbone of interactive, dynamic web pages—functions, loops, and the Document Object Model (DOM). Ready to code like a pro? Let’s dive in.
